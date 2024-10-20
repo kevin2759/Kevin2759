@@ -1,4 +1,4 @@
-## Hi there 👋
+## bonjour 👋
 
 <!--
 **kevin2759/Kevin2759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
